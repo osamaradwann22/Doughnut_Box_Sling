@@ -1,0 +1,22 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #f9d9e4;
+  font-family: Arial, Helvetica, sans-serif;
+  touch-action: none;
+}
+
+#game-shell,
+#game {
+  width: 100%;
+  height: 100%;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
